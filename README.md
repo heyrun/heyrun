@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @heyrun (Aaron Ebake)
-- 👀 I’m interested in ...DevOps, Microservices, Kubernete, writing codes and Photography.
-- 🌱 I’m currently learning ... Red Hat OpenShift and I intend to complete my AWS certifications this quarter. 
+- 👀 I’m interested in DevOps, Microservices, Kubernete, writing codes and Photography.
+- 🌱 I’m currently learning Red Hat OpenShift and I intend to complete my AWS certifications this quarter. 
 <!--- - 💞️ I’m looking to collaborate on ... --->
 - 📫 How to reach me @heybarke on Twitter
 
